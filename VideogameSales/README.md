@@ -1,2 +1,4 @@
-### Описание проекта
-[Jupyter Notebook](VideogameSales.ipynb)
+## Описание проекта
+[Jupyter Notebook](VideogameSales.ipynb)  
+[HTML](VideogameSales.html)  
+
