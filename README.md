@@ -1,11 +1,12 @@
 | Наименование проекта | Описание | Стек |
 |----------------------|----------|------|
-| [Исследование данных о продажах компьютерных игр][1] | ||
+| [Анализ поведения пользователей мобильного приложения][1] | ||
 | [Рынок заведений общественного питания Москвы][2] | ||
-| [][] | ||
-| [][] | ||
+| [Анализ бизнес-показателей][3] | ||
+| [Исследование данных о продажах компьютерных игр][4] | ||
 
-[1]: /VideogameSales/README.md  
+
+[1]: /MobileApp_UserBehavior/README.md  
 [2]: /MoscowCateringEstablishments/README.md  
-[3]: /BusinessMetricsAnalysis/README.md  
-[4]: /MobileApp_UserBejavior/README.md
+[3]: /BusinessMetricsAnalysis/README.md
+[4]: /VideogameSales/README.md  
